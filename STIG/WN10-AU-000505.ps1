@@ -6,23 +6,23 @@
     Author          : Maffy Peterpaul
     LinkedIn        : linkedin.com/in/maffy-peterpaul
     GitHub          : github.com/Maffypeterp
-    Date Created    : 2025-09-15
-    Last Modified   : 2025-09-15
+    Date Created    : 2025-09-16
+    Last Modified   : 2025-09-16
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-AU-000500
+    STIG-ID         : WN10-AU-000505
 
 .TESTED ON
-    Date(s) Tested  : 2025-09-15
-    Tested By       : Maffy Peterpaul
+    Date(s) Tested  : 
+    Tested By       : 
     Systems Tested  : 
     PowerShell Ver. : 
 
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000505).ps1 
 #>
 
 # Run this in an elevated PowerShell session (Run as Administrator)
